@@ -1,0 +1,4 @@
+References for the solution:
+Almost everything that i worked in the task is from the knowledge i got in the faculty where i also worked in a project with those technologies( you can find in my GitHub and CV ).
+Only the part of filter search didnt know so i watch a video in youtube:
+https://www.youtube.com/watch?v=G34_yNV8FMY
